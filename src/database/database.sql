@@ -35,7 +35,7 @@ VALUES (
 5.00,
 'Toys',
 'T01',
-'https://s7d5.scene7.com/is/image/PetsUnited/T403643_P',
+'https://store.titosvodka.com/cdn/shop/products/Titos_Rubber_Ball_Toy.jpg?v=1575646728',
 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate aut nobis est officiis culpa sapiente? Illum suscipit, explicabo qui consectetur corrupti reprehenderit repellendus perspiciatis ab at dicta obcaecati facere excepturi? Dicta deserunt totam alias magnam. Optio numquam ut explicabo, provident repellat voluptatibus.')
 ON CONFLICT (product_id) DO NOTHING;
 
@@ -45,7 +45,7 @@ VALUES (
 50.00,
 'Beds',
 'DB01',
-'https://www.costco.co.uk/medias/sys_master/images/h0c/h16/101627202240542.jpg',
+'https://ralphand.co/cdn/shop/products/Balmoral-front-2.jpg?v=1691521053',
 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate aut nobis est officiis culpa sapiente? Illum suscipit, explicabo qui consectetur corrupti reprehenderit repellendus perspiciatis ab at dicta obcaecati facere excepturi? Dicta deserunt totam alias magnam. Optio numquam ut explicabo, provident repellat voluptatibus.')
 ON CONFLICT (product_id) DO NOTHING;
 
