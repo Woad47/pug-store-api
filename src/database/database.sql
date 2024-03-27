@@ -136,6 +136,6 @@ email VARCHAR(320) NOT NULL UNIQUE,
 password VARCHAR(60) NOT NULL,
 role CHAR NOT NULL DEFAULT 'u');
 
-UPDATE items SET product_img = 'https://store.titosvodka.com/cdn/shop/products/Titos_Rubber_Ball_Toy.jpg?v=1575646728', WHERE id = 3;
-UPDATE items SET product_img = 'https://ralphand.co/cdn/shop/products/Balmoral-front-2.jpg?v=1691521053', WHERE id = 4;
-UPDATE items SET product_description = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate aut nobis est officiis culpa sapiente?'
+UPDATE items SET product_img = 'https://store.titosvodka.com/cdn/shop/products/Titos_Rubber_Ball_Toy.jpg?v=1575646728' WHERE id = 3;
+UPDATE items SET product_img = 'https://ralphand.co/cdn/shop/products/Balmoral-front-2.jpg?v=1691521053' WHERE id = 4;
+UPDATE items SET product_description = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate aut nobis est officiis culpa sapiente?';
